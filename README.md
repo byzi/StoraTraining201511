@@ -2,3 +2,10 @@
 Príliš žlutoucký kun úpel dábelské ódy.
 
 # Hi there!
+
+# Bosak
+jasfujtgkuugsdf
+ksgtdfkugkj
+kjfhzdsjhfjhf
+kugtasskdugkug
+sakdjgjkasjsgkj
