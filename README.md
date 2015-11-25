@@ -1,11 +1,13 @@
-
+﻿
 # StoraTraining201511
+<<<<<<< HEAD
 jeho noha
 
 žlutoučký kůň příšerně úpěl ďábelské ódy
 
 # StoraTraining20151123
 moje noha
+=======
 
 # bosak 2
 habla
@@ -20,3 +22,4 @@ ksgtdfkugkj
 kjfhzdsjhfjhf
 kugtasskdugkug
 sakdjgjkasjsgkj
+>>>>>>> origin/master
