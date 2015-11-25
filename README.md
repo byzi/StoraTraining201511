@@ -1,11 +1,13 @@
-
+﻿
 # StoraTraining201511
+<<<<<<< HEAD
 Príliš žlutoucký kun úpel dábelské ódy.
 
 # Hi there!
 
 # StoraTraining20151123
 moje noha
+=======
 
 # bosak 2
 habla
@@ -20,3 +22,4 @@ ksgtdfkugkj
 kjfhzdsjhfjhf
 kugtasskdugkug
 sakdjgjkasjsgkj
+>>>>>>> origin/master
